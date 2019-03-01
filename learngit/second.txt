@@ -1,2 +1,0 @@
-Another file including a warm greeting:
-'Hello world!'
